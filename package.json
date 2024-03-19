@@ -1,0 +1,18 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "youtube backend app for demo purpose this project is not only production ready but also future proof.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "express",
+    "mongoose",
+    "etc..."
+  ],
+  "author": "viral jain[CAC]",
+  "license": "ISC"
+}
