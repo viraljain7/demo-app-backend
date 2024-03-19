@@ -46,3 +46,28 @@ cd ..
 ```js
 npm i -D nodemon prettier
 ```
+
+### prettierrc
+
+```js
+{
+  "trailingComma": "es5",
+  "tabWidth": 2,
+  "semi": true,
+  "singleQuote": false,
+  "bracketSpacing": true
+}
+
+```
+
+### prettierignore
+
+```js
+.vscode
+/node_modules
+./dist
+
+.env
+*.env
+.env.*
+```
