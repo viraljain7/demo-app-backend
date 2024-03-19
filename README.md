@@ -17,7 +17,7 @@ npm init
 - in script
 
   ```js
-  "dev": "nodemon src/index.js",
+  "dev": "nodemon -r dotenv/config --experimental-json-modules  src/index.js",
   ```
 
 ### open terminal and run this command
@@ -70,4 +70,10 @@ npm i -D nodemon prettier
 .env
 *.env
 .env.*
+```
+
+### dependencies
+
+```js
+npm i mongoose express dotenv
 ```
