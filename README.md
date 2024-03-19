@@ -15,15 +15,14 @@ npm init
   ```
 
 - in script
+
   ```js
   "dev": "nodemon src/index.js",
   ```
 
 ### open terminal and run this command
 
-```js
-touch.env.gitignore;
-```
+touch .env .gitignore .prettierrc .prettierignore
 
 ```js
 mkdir src public
@@ -34,6 +33,10 @@ cd src
 ```
 
 ```js
+mkdir controllers models utils db middlewares routes
+```
+
+```js
 touch app.js constants.js index.js
 cd ..
 ```
@@ -41,5 +44,5 @@ cd ..
 ### dev dependencies
 
 ```js
-npm i -D nodemon
+npm i -D nodemon prettier
 ```
