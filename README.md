@@ -76,4 +76,5 @@ npm i -D nodemon prettier
 
 ```js
 npm i mongoose express dotenv
+npm i cookie-parser cors
 ```
