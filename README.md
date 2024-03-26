@@ -80,3 +80,7 @@ npm i cookie-parser cors
 ```
 
 //logic building
+//model
+//controller
+//routes
+//middlewares
