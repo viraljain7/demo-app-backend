@@ -84,3 +84,9 @@ npm i cookie-parser cors
 //controller
 //routes
 //middlewares
+//utils
+//gitignore
+//.env
+//index.js
+//app.js
+//constants.js
